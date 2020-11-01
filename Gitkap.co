@@ -1,0 +1,3 @@
+git uzaktan kaynak ekle https://github.com/Ayhanbey63500/Gitkap.git
+ git şube -M ana 
+git itme -u kaynak ana
